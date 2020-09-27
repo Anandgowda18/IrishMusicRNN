@@ -1,5 +1,5 @@
 # IrishMusicRNN
-### Model used:RNN(Recurrent Neural Network)
+### Model used: RNN (Recurrent Neural Network)
 
 Creating the Irish Music using RNN.
 
